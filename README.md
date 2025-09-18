@@ -5,7 +5,7 @@ This project implements a simple feedforward neural network (MLP) to recognize h
 
 It includes both a training script and a Tkinter-based GUI application where you can draw digits and get real-time predictions.
 
-The project is using the MLP neural network library that I've made you can find it on:
+The project uses the MLP neural network library I created, which can be found at:
 - Github: https://github.com/ThePhantom2307/MLP-Neural-Network
 - PyPi: https://pypi.org/project/NeuralNetworkMLP/
 
