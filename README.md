@@ -96,12 +96,6 @@ The project depends on:
 -  `Pillow` (for image processing in the GUI)
 -  `tkinter` (usually included with Python)
 
-Install them via:
-
-```bash
-pip install -r requirements.txt
-```
-
 ## Notes
 
 - The trained model (`model.json`) is generated after training and should be included if you want to run predictions without retraining.
